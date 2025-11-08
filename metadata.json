@@ -1,0 +1,5 @@
+{
+  "name": "Waqar Cricketer",
+  "description": "A well-designed cricket game with advanced options, user login, a coin-based economy, and a live game mode. Features dynamic commentary powered by the Gemini API.",
+  "requestFramePermissions": []
+}
